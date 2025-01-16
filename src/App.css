@@ -49,3 +49,15 @@ main{
 .icon, .link_text{
     font-size: 20px;
 }
+
+/* Optional additional styles for responsiveness */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+main {
+    padding: 20px;
+    background-color: #f4f4f4;
+    overflow-y: auto;
+}
